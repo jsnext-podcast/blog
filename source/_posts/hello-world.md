@@ -1,8 +1,9 @@
 ---
 title: "#1 前端技术 2015 回顾与 2016 的展望"
+subtitle: 本期由三位主播回顾 2015 年前端技术的变化和展望 2016 年
 date: 2016-01-04 18:29:25
 duration: 7777
-source: http://google.com/api.mp3
+resource: http://google.com/api.mp3
 tags:
 ---
 
