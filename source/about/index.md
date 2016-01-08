@@ -10,3 +10,5 @@ JSNext.fm 是由 [Randy](http://djyde.github.io), [Howard](http://metacircus.com
 推荐您使用泛用型播客客户端订阅我们，只需要搜索 **JSNext.fm** 相关关键字即可。或者使用我们的 [Feed](/feed.xml) 通过您喜欢的博客客户端订阅。
 
 前端工程是一个常被低估和轻视的软件工程，如果您并非前端开发者，也欢迎您订阅收听，了解更多与前端相关的技术进展。
+
+** JSNext.fm 由稀土掘金(http://gold.xitu.io) 赞助 **
