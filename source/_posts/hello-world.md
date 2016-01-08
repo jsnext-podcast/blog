@@ -30,5 +30,3 @@ tags:
 <!-- more -->
 
 <audio src="http://7xprtg.com1.z0.glb.clouddn.com/e1-128.mp3" preload="none" controls></audio>
-
-JSNext Podcast 是由 Randy, Howard, 阴明 主持的前端技术类中文播客节目，讨论时下前端技术相关的一切，争取每期邀请符合主题的优秀工程师一起聊聊。希望用 podcast 形式记录前端技术发展重要的每一步。
